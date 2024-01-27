@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kafeshka.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6043431408b23040ee42ec12b715a8894d73b8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kafeshka.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kafeshka.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

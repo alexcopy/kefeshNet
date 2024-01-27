@@ -1,0 +1,11 @@
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.csproj.AssemblyReference.cache
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.AssemblyInfoInputs.cache
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.AssemblyInfo.cs
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.csproj.CoreCompileInputs.cache
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.sourcelink.json
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.dll
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/refint/Kafeshka.Api.dll
+/Users/redcopy/Projects/DotNet/kafeshka/Kafeshka.Api/obj/Debug/net8.0/Kafeshka.Api.pdb
